@@ -19,10 +19,10 @@ function goURL(theForm) {
 
 if (document.images) {
         image1on = new Image();
-        image1on.src ="../images/buy_on.gif";
+        image1on.src ="/images/buy_on.gif";
 
         image1off = new Image();
-        image1off.src = "../images/buy_off.gif";
+        image1off.src = "/images/buy_off.gif";
 
 }
 
@@ -56,17 +56,17 @@ BODY { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; }
 <!-- Banner -->
 <TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
 <TR VALIGN="TOP">
-<TD COLSPAN="2" ALIGN="RIGHT"><IMG SRC="images/gi_top.gif" WIDTH=298 HEIGHT=21 HSPACE=0 VSPACE=0 BORDER=0 ALT=""><IMG SRC="../images/pixel.gif" WIDTH=107 HEIGHT=21 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD></TR>
+<TD COLSPAN="2" ALIGN="RIGHT"><IMG SRC="images/gi_top.gif" WIDTH=298 HEIGHT=21 HSPACE=0 VSPACE=0 BORDER=0 ALT=""><IMG SRC="/images/pixel.gif" WIDTH=107 HEIGHT=21 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD></TR>
 </TR>
 <TR VALIGN="TOP">
 <TD><IMG SRC="images/wireframe.gif" WIDTH=224 HEIGHT=60 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
-<TD ALIGN="RIGHT"><IMG SRC="images/gi_bot.jpg" WIDTH=334 HEIGHT=60 HSPACE=0 VSPACE=0 BORDER=0 ALT=""><IMG SRC="../images/pixel.gif" WIDTH=60 HEIGHT=60 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD></TR>
+<TD ALIGN="RIGHT"><IMG SRC="images/gi_bot.jpg" WIDTH=334 HEIGHT=60 HSPACE=0 VSPACE=0 BORDER=0 ALT=""><IMG SRC="/images/pixel.gif" WIDTH=60 HEIGHT=60 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD></TR>
 </TABLE>
 
 <!-- Content -->
 <TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
 <TR VALIGN="TOP">
-<TD><!-- Gutter --><IMG SRC="../images/pixel.gif" WIDTH=30 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD><!-- Gutter --><IMG SRC="/images/pixel.gif" WIDTH=30 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 <TD>
 &nbsp;
 <BR>
@@ -76,22 +76,22 @@ BODY { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; }
 <P>
 In diesem Abschnitt finden Sie jede Menge Informationen zu RollerCoaster Tycoon.<P>
 
-Lesen Sie das <A href="interview.html">Exklusiv-Interview</A> mit Chris Sawyer, dem Entwickler dieses Spiels, und seine <a href="tips.html">10 Top-Tips </A> - die speziell für die offizielle Website geschrieben wurden.
+Lesen Sie das <A href="interview.html">Exklusiv-Interview</A> mit Chris Sawyer, dem Entwickler dieses Spiels, und seine <a href="tips.html">10 Top-Tips </A> - die speziell fï¿½r die offizielle Website geschrieben wurden.
 <P>
-Erfahren Sie etwas <A href="outline.html">über das Spiel</A> selbst und schauen Sie sich 
-sich dann die herrlichen <A href="screenshots.html">Screenshots</A> an. Sie sind nicht sicher, ob Ihr PC schnell genug ist für das Spiel? - Schauen Sie bei
+Erfahren Sie etwas <A href="outline.html">ï¿½ber das Spiel</A> selbst und schauen Sie sich 
+sich dann die herrlichen <A href="screenshots.html">Screenshots</A> an. Sie sind nicht sicher, ob Ihr PC schnell genug ist fï¿½r das Spiel? - Schauen Sie bei
  <A Href="tech.html">den technischen Daten</A> nach.
 <P>
-Wenn Ihnen das noch nicht reicht, haben wir die ständig größer werdende <a href="faq.html">FAQ-Bibliothek</A>. Und schließlich - das kommt nicht von uns - können Sie im Abschnitt <a href="previews.html">Meinungen</A> lesen, was 
-andere über RollerCoaster Tycoon denken und sagen.
+Wenn Ihnen das noch nicht reicht, haben wir die stï¿½ndig grï¿½ï¿½er werdende <a href="faq.html">FAQ-Bibliothek</A>. Und schlieï¿½lich - das kommt nicht von uns - kï¿½nnen Sie im Abschnitt <a href="previews.html">Meinungen</A> lesen, was 
+andere ï¿½ber RollerCoaster Tycoon denken und sagen.
 <P>
-    Wenn Sie technische Unterstützung benötigen, wenden Sie sich bitte an die für Ihr
-    Gebiet zuständige Stelle (s. Handbuch).
+    Wenn Sie technische Unterstï¿½tzung benï¿½tigen, wenden Sie sich bitte an die fï¿½r Ihr
+    Gebiet zustï¿½ndige Stelle (s. Handbuch).
     Wenn Sie Fragen zu dieser Website haben, schreiben Sie dem
 	<A
 HREF="mailto:technical_support@hasbro.com?subject=RollerCoasterTycoon.com
 Site">RollercoasterTycoon Webmaster</A>.<P>
-<!-- <A HREF="http://www.hasbro-interactive.com/cgi-bin/store/beenframed.cgi?rollercoaster.html" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="../images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A><BR CLEAR=ALL><IMG SRC="images/pixel.gif" WIDTH=7 HEIGHT=1 BORDER=0 ALIGN="LEFT" ALT=""><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2"><B>US only</B></FONT> -->
+<!-- <A HREF="http://www.hasbro-interactive.com/cgi-bin/store/beenframed.cgi?rollercoaster.html" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="/images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A><BR CLEAR=ALL><IMG SRC="images/pixel.gif" WIDTH=7 HEIGHT=1 BORDER=0 ALIGN="LEFT" ALT=""><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2"><B>US only</B></FONT> -->
 <P>
 
 <FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2" CLASS="text">
@@ -102,33 +102,33 @@ Site">RollercoasterTycoon Webmaster</A>.<P>
 <BR>
 &nbsp;
 </TD>
-<TD><!-- Gutter --><IMG SRC="../images/pixel.gif" WIDTH=20 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD><!-- Gutter --><IMG SRC="/images/pixel.gif" WIDTH=20 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 <TD>
 <!-- Dropdown menu -->
 <BR>
 <FORM>
 <TABLE WIDTH="204" BORDER="0" CELLSPACING="0" CELLPADDING="0">
 <TR VALIGN="TOP">
-<TD BACKGROUND="../images/top.gif"><IMG SRC="../images/top_left_curve.gif" WIDTH=15 HEIGHT=15 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
-<TD BGCOLOR="#AE1B6D" BACKGROUND="../images/top.gif"><IMG SRC="../images/pixel.gif" WIDTH=5 HEIGHT=15 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
-<TD ALIGN="RIGHT" BGCOLOR="#AE1B6D" BACKGROUND="../images/top.gif"><IMG SRC="../images/top_right_sq.gif" WIDTH=14 HEIGHT=15 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD BACKGROUND="/images/top.gif"><IMG SRC="/images/top_left_curve.gif" WIDTH=15 HEIGHT=15 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD BGCOLOR="#AE1B6D" BACKGROUND="/images/top.gif"><IMG SRC="/images/pixel.gif" WIDTH=5 HEIGHT=15 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD ALIGN="RIGHT" BGCOLOR="#AE1B6D" BACKGROUND="/images/top.gif"><IMG SRC="/images/top_right_sq.gif" WIDTH=14 HEIGHT=15 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 </TR>
 <TR>
-<TD ALIGN="RIGHT" BGCOLOR="#AE1B6D" BACKGROUND="../images/left.gif"><IMG SRC="../images/pixel.gif" WIDTH=14 HEIGHT=5 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD ALIGN="RIGHT" BGCOLOR="#AE1B6D" BACKGROUND="/images/left.gif"><IMG SRC="/images/pixel.gif" WIDTH=14 HEIGHT=5 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 <TD BGCOLOR="#AE1B6D" WIDTH="100%">
 
 	<TABLE WIDTH="100%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
 	<TR>
     <TD>
 
-<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2" COLOR="#FFFFFF">Seite auswählen:<BR CLEAR=ALL>
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2" COLOR="#FFFFFF">Seite auswï¿½hlen:<BR CLEAR=ALL>
 <select name="menu" SIZE="1" STYLE="background-color: #FFD417; color: #AE1B6D;" onchange="goURL(this.form)">
-<OPTION VALUE="index.shtml" SELECTED>Zurück zur Spielinformation</OPTION>
+<OPTION VALUE="index.shtml" SELECTED>Zurï¿½ck zur Spielinformation</OPTION>
 <OPTION  VALUE="outline.html">Spielbeschreibung</OPTION>
 <OPTION  VALUE="screenshots.html">Screenshots</OPTION>
 <OPTION  VALUE="tips.html">Tips von Chris Sawyer</OPTION>
 <OPTION  VALUE="interview.html">Interview mit Chris Sawyer</OPTION>
-<OPTION  VALUE="faq.html">FAQ (häufig gestellte Fragen)</OPTION>
+<OPTION  VALUE="faq.html">FAQ (hï¿½ufig gestellte Fragen)</OPTION>
 <OPTION  VALUE="tech.html">Technische Einzelheiten</OPTION>
 <OPTION  VALUE="previews.html">Meinungen</OPTION>
 </SELECT>
@@ -140,14 +140,14 @@ Site">RollercoasterTycoon Webmaster</A>.<P>
 
 </TD>
 
-<TD WIDTH="4" ALIGN="RIGHT" BGCOLOR="#D68DB6" BACKGROUND="../images/right.gif">
-<IMG SRC="../images/pixel.gif" WIDTH=4 HEIGHT=15 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD WIDTH="4" ALIGN="RIGHT" BGCOLOR="#D68DB6" BACKGROUND="/images/right.gif">
+<IMG SRC="/images/pixel.gif" WIDTH=4 HEIGHT=15 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 </TD>
 </TR>
 <TR>
-<TD BACKGROUND="../images/bttm.gif"><IMG SRC="../images/bttm_left_sq.gif" WIDTH=15 HEIGHT=16 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
-<TD BGCOLOR="#AE1B6D" BACKGROUND="../images/bttm.gif"><IMG SRC="../images/bttm.gif" WIDTH=15 HEIGHT=16 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
-<TD ALIGN="RIGHT" BGCOLOR="#AE1B6D" BACKGROUND="../images/bttm.gif"><IMG SRC="../images/bttm_right_curve.gif" WIDTH=14 HEIGHT=16 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD BACKGROUND="/images/bttm.gif"><IMG SRC="/images/bttm_left_sq.gif" WIDTH=15 HEIGHT=16 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD BGCOLOR="#AE1B6D" BACKGROUND="/images/bttm.gif"><IMG SRC="/images/bttm.gif" WIDTH=15 HEIGHT=16 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD ALIGN="RIGHT" BGCOLOR="#AE1B6D" BACKGROUND="/images/bttm.gif"><IMG SRC="/images/bttm_right_curve.gif" WIDTH=14 HEIGHT=16 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 </TR>
 </TABLE>
 </FORM>
@@ -157,7 +157,7 @@ Site">RollercoasterTycoon Webmaster</A>.<P>
 
 <P>
 </TD>
-<TD><!-- Gutter --><IMG SRC="../images/pixel.gif" WIDTH=30 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD><!-- Gutter --><IMG SRC="/images/pixel.gif" WIDTH=30 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 </TR>
 </TABLE>
 
