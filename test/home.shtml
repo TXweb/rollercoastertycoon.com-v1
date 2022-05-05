@@ -1,0 +1,322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+
+
+<HTML>
+
+<HEAD>
+
+	<TITLE>Rollercoaster Tycoon Website</TITLE>
+
+
+
+<SCRIPT LANGUAGE="javascript">
+
+
+
+<!--
+
+
+
+if (document.images) {
+
+        image1on = new Image();
+
+        image1on.src ="images/buy_on.gif";
+
+
+
+        image1off = new Image();
+
+        image1off.src = "images/buy_off.gif";
+
+
+
+}
+
+
+
+function changeImages() {
+
+        if (document.images) {
+
+        for (var i=0; i<changeImages.arguments.length; i+=2)  {
+
+        document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+
+        }
+
+        }
+
+}
+
+
+
+
+
+//-->
+
+
+
+</SCRIPT>
+
+</HEAD>
+
+
+
+<BODY BACKGROUND="images/home_bg.gif" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#AE1B6D" VLINK="#AE1B6D" ALINK="#FFD417" LEFTMARGIN=0 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0>
+
+
+
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+
+<TR VALIGN="TOP">
+
+<TD ROWSPAN="2"><!-- Gutter --><IMG SRC="images/pixel.gif" WIDTH=30 HEIGHT=130 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+<TD COLSPAN="2">
+
+
+
+	<TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0" WIDTH=296>
+
+	<TR>
+
+    <TD>
+
+	<FONT FACE="Arial, Helvetica, sans-serif" SIZE="2" COLOR="#0101C8"><B><I>The <U>official</U> RollerCoaster Tycoon Web site</I>...</B></FONT>
+
+	<BR>
+
+	<FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2">
+
+        ...where you can <A href="rides/index.html">swap rides</A> in the Ride Exchange, download winners of the <A href="competition/index.html">Ride Design Competitions</A>.  Also, the <a href="info/index.shtml">Game Info</A> section contains the <a href="info/faq.html">FAQ</A>, <a href="info/screenshots.html">screenshots</A>, <a href="info/tips.html">top tips</A> and more.  Plus, download <A HREF="downloads/special_rides.html">extra official rides</A>, <A HREF="downloads/scenarios.html">extra scenarios</A> and more.<BR>
+
+The <A HREF="news/index.html">news</A> section details latest site additions and game news.<br>
+    </font>
+
+	</TD>
+
+	</TR>
+
+	</TABLE>
+
+
+
+</TD>
+
+<TD ROWSPAN="2" ALIGN="RIGHT" VALIGN="BOTTOM">
+
+
+
+<CENTER>
+
+<TABLE WIDTH="230" BORDER="0">
+
+<TR><TD ALIGN="center">
+<A HREF="info/loopy_rebate.html"><IMG SRC="images/new_title.gif" WIDTH=76 HEIGHT=33 HSPACE=0 VSPACE=0 BORDER=0 ALT="New"></A><BR>
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="2" COLOR="#0101C8"><B><I>Buy Loopy Landscapes...</I></B></FONT><br>
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2">...Corkscrew Follies, get</font><br>
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-1"><b>$10 Back</b></font><br>
+<A HREF="info/loopy_rebate.html"><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2">Details</font></a>
+</TR></TD></TABLE>
+</CENTER>
+<IMG SRC="images/home_03.gif" WIDTH=120 HEIGHT=25 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+
+
+<TD ROWSPAN="2" ALIGN="CENTER"><table border=0 cellspacing=0 cellpadding=0 width=250><td>
+<a href="http://www.monopolytycoon.com" target="_top"><img src="images/mt.jpg" width="101" height="122" align="left" border="0" alt="Click here to see Monopoly Tycoon!"></a><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2" COLOR="#0101C8"><B><I>"Aggressive,
+  addictive and artful, this is Monopoly as it was meant to be."</I></B></FONT><br>
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2"> IGN.com</font></td>
+</table></TD>
+
+</TR>
+
+<TR VALIGN="TOP">
+
+<TD></TD>
+
+<TD><IMG SRC="images/pixel.gif" WIDTH=30 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+</TR>
+
+<TR VALIGN="BOTTOM">
+
+<TD><IMG SRC="images/home_10.gif" WIDTH=30 HEIGHT=35 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+<TD><A HREF="rides/index.html"><IMG SRC="images/home_11.gif" WIDTH=217 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT="Swap Rides"></A></TD>
+
+<TD WIDTH="50%" COLSPAN="2" ROWSPAN="2" ALIGN="RIGHT" VALIGN="TOP"><IMG SRC="images/home_12.jpg" WIDTH=159 HEIGHT=93 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+<TD WIDTH="50%" ROWSPAN="2" ALIGN="RIGHT"><A HREF="downloads/demo.html"><IMG SRC="images/home_24.jpg" WIDTH=194 HEIGHT=78 HSPACE=0 VSPACE=2 BORDER=0 ALT=""></A></TD>
+
+</TR>
+
+<TR>
+
+<TD COLSPAN="2"><IMG SRC="images/home_20.jpg" WIDTH=297 HEIGHT=60 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+</TR>
+
+<TR VALIGN="TOP">
+
+<TD COLSPAN="5">
+
+
+
+	<TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
+
+	<TR VALIGN="TOP">
+
+    <TD>
+
+<applet code="Banners.class"  width="247" height="17" >
+
+<param name="cpf"           value="2">
+
+<param name="fps"           value="20">
+
+<param name="bgColor"       value="#AE1B6D">
+
+<param name="size"          value="12">
+
+<param name="exit"          value="scrollLeft">
+
+<param name="textColor"     value="#FFD417">
+
+<param name="font"          value="Dialog">
+
+<param name="bgEnter"       value="None">
+
+<param name="align"         value="Center">
+
+<param name="enter"         value="scrollLeft">
+
+<param name="repeat"        value="1">
+
+<param name="bgExit"        value="None">
+
+<param name="pause"         value="0">
+
+<param name="messages"      value="
+
+
+
+NEW - New patches for both original and add-on products available for download [Downloads] . . .
+
+
+
+Facts you never knew about RollerCoaster Tycoon [Info] . . .
+
+
+
+The Steel Twister competition results have been announced and you can download the winners [Competition] . . .
+
+
+
+Free official scenario based on the UK's Alton Towers theme park available for download [Download] . . .
+
+
+
+"></applet></TD>
+
+	<TD><IMG SRC="images/home_33.jpg" WIDTH=393 HEIGHT=17 HSPACE=0 VSPACE=0 BORDER=0 ALT=""><BR CLEAR=ALL><IMG SRC="images/home_43.gif" WIDTH=63 HEIGHT=18 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+	</TR>
+
+	</TABLE>
+
+</TD>
+
+</TR>
+
+</TABLE>
+
+<TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
+
+<TR>
+
+<TD><IMG SRC="images/pixel.gif" WIDTH=10 HEIGHT=40 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+<TD VALIGN="TOP"><IMG SRC="images/cs_sig.gif" WIDTH=146 HEIGHT=66 HSPACE=0 VSPACE=0 BORDER=0 ALT="Chris Sawyer"><BR CLEAR=ALL>
+
+  <br>
+  <FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2" COLOR="#000000">
+
+  <a href="http://www.esrb.com"><IMG SRC="images/rating_e.gif" HSPACE=0 VSPACE=0 BORDER=0 ALT="Mild Animated Violence"><br>
+  <br>
+  </a></font><CENTER><A HREF="http://us.infogrames.com/store" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="./images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A><BR><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2"><B>US only</B></FONT>
+
+</CENTER></TD>
+
+<TD><IMG SRC="images/pixel.gif" WIDTH=40 HEIGHT=40 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+
+<TD VALIGN="TOP">
+
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-1" COLOR="#000000">
+
+<B>TIP</B>: (changes every time you visit)<BR>
+
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-1" COLOR="#AE1B6D">
+
+<B>
+
+
+
+
+
+</B>
+
+</FONT>
+
+<P>
+
+<p><a href="http://www.games.com" target="yippee"><img
+src="images/gamespromo.gif"
+width="220" height="119" alt="Click here to play at Games.com" border="0"></a></p>
+
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-3">
+
+<!--- Use of this site signifies your agreement to the
+
+<A HREF="http://www.hasbro.com/home/terms.html" TARGET="_blank">Terms and Conditions of Use</A>. --->
+
+&copy;1999, Chris Sawyer. All Rights Reserved.  Published by Hasbro
+
+Interactive under the MicroProse brand. &copy;1999 Hasbro Interactive, Inc.
+
+</FONT>
+
+</font>
+
+</TD>
+
+
+
+<TD>
+
+<!-- Buy It Link --><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2"><b>Infogrames
+Subscription Center&nbsp;</b>
+
+    </font>
+
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Get the latest news on this game, free giveaways, sweepstakes, and special discounts.
+<a href='javascript:OpenSubscribe("http://us.infogrames.com/games/subscribe.php?action=subscribe&title=ROLL&sku=PCXX&genre=STRY&url=us.infogrames.com&num=&bgcolor=FFFFFF&text=FFD417&header=FFD417&link=")'>Sign Up Now!</a><BR>
+
+</font></p>
+
+</TD>
+
+
+
+</TR>
+
+</TABLE>
+
+
+
+</BODY>
+
+</HTML>
+

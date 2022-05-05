@@ -1,0 +1,145 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML>
+<HEAD>
+	<TITLE>Rollercoaster Tycoon Website</TITLE>
+
+<SCRIPT LANGUAGE="javascript">
+
+<!--
+
+if (document.images) {
+        image1on = new Image();
+        image1on.src ="images/buy_on.gif";
+
+        image1off = new Image();
+        image1off.src = "images/buy_off.gif";
+
+}
+
+function changeImages() {
+        if (document.images) {
+        for (var i=0; i<changeImages.arguments.length; i+=2)  {
+        document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+        }
+        }
+}
+
+
+//-->
+
+</SCRIPT>
+</HEAD>
+
+<BODY BACKGROUND="images/home_bg.gif" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#AE1B6D" VLINK="#FFAF00" ALINK="#0099FF" LEFTMARGIN=0 TOPMARGIN=0 MARGINHEIGHT=0 MARGINWIDTH=0>
+
+<TABLE WIDTH="100%" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+<TR VALIGN="TOP">
+<TD ROWSPAN="2"><!-- Gutter --><IMG SRC="images/pixel.gif" WIDTH=30 HEIGHT=130 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD>
+
+	<TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0" WIDTH=296>
+	<TR>
+    <TD>
+	<FONT FACE="Arial, Helvetica, sans-serif" SIZE="2" COLOR="#0101C8"><B><I>Die <U>offizielle</U>  Webseite von RollerCoaster Tycoon </I>...</B></FONT>
+	<BR>
+	<FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2">
+        ...Hier können Sie Ihre <A href="rides/index.html">Achterbahnen in der Tauschbörse 
+tauschen</A>,  beim <A href="competition/index.html">Design-Wettbewerb</A> Preise gewinnen,  im 
+Abschnitt <a href="info/index.shtml">Spiel-Info</A> mehr über das Spiel erfahren -
+dort gibt es <a href="info/faq.html">FAQs</A>, <a href="info/screenshots.html">Screenshots</A>, <a href="info/tips.html">Top-Tips</A>, <a href="info/index.shtml">Meinungen</A> und vieles mehr. Zusätzlich lassen sich 
+<A HREF="downloads/special_rides.html">14 Zusatz-Attraktionen</A> herunterladen.<BR>
+	</P>
+	</TD>
+	</TR>
+	</TABLE>
+
+</TD>
+<TD ROWSPAN="2" ALIGN="RIGHT" VALIGN="BOTTOM">
+<IMG SRC="images/home_03.gif" WIDTH=120 HEIGHT=25 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD ROWSPAN="2" ALIGN="CENTER">
+
+	<TABLE WIDTH="168" BORDER="0" CELLSPACING="0" CELLPADDING="0">
+	<TR>
+    <TD COLSPAN="3"><A HREF="competition/index.html"><IMG SRC="images/win_prizes.gif" WIDTH=188 HEIGHT=46 HSPACE=0 VSPACE=0 BORDER=0 ALT="GEWINNEN SIE!"></A></TD>
+	<TD><!-- Gutter --><IMG SRC="images/pixel.gif" WIDTH=4 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+	</TR>
+	<TR>
+	<TD ALIGN="CENTER"><BR><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2">Exklusives <A HREF="competition/index.html">RCT-Mauspad</A> und <A href="hunt/index.html">Poster</A> zu gewinnen!</FONT><BR>
+	</TD>
+	<TD><!-- Gutter --><IMG SRC="images/pixel.gif" WIDTH=4 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+	</TR>
+	</TABLE>
+
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD><!-- Buy Now Commented out <A HREF="http://www.hasbro-interactive.com/cgi-bin/store/beenframed.cgi?rollercoaster.html" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A><BR CLEAR=ALL><IMG SRC="images/pixel.gif" WIDTH=7 HEIGHT=1 BORDER=0 ALIGN="LEFT" ALT=""><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2"><B>US only</B></FONT> --></TD>
+<TD>
+<IMG SRC="images/pixel.gif" WIDTH=30 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN="2"><A HREF="rides/index.html"><IMG SRC="images/home_1.gif" WIDTH=252 HEIGHT=94 HSPACE=0 VSPACE=0 BORDER=0 ALT="Nächster Attraktion" ALIGN="LEFT"></A><IMG SRC="images/home_2.gif" WIDTH=45 HEIGHT=95 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD WIDTH="50%" ALIGN="RIGHT"><IMG SRC="images/home_3.jpg" WIDTH=159 HEIGHT=95 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD WIDTH="50%" ALIGN="RIGHT"><A HREF="downloads/demo.html"><IMG SRC="images/home_4.gif" WIDTH=173 HEIGHT=95 HSPACE=0 VSPACE=0 BORDER=0 ALT="Kostenlos"></A></TD>
+</TR>
+<TR VALIGN="TOP">
+<TD COLSPAN="5">
+
+	<TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
+	<TR VALIGN="TOP">
+    <TD>
+<applet code="Banners.class"  width="247" height="17" >
+<param name="cpf"           value="2">
+<param name="fps"           value="20">
+<param name="bgColor"       value="#AE1B6D">
+<param name="size"          value="12">
+<param name="exit"          value="scrollLeft">
+<param name="textColor"     value="#FFD417">
+<param name="font"          value="Dialog">
+<param name="bgEnter"       value="None">
+<param name="align"         value="Center">
+<param name="enter"         value="scrollLeft">
+<param name="repeat"        value="1">
+<param name="bgExit"        value="None">
+<param name="pause"         value="0">
+<param name="messages"      value="RollerCoaster Tycoon – eine kluge Investition in Langzeit-Unterhaltung"></applet></TD>
+	<TD><IMG SRC="images/home_33.jpg" WIDTH=393 HEIGHT=17 HSPACE=0 VSPACE=0 BORDER=0 ALT=""><BR CLEAR=ALL><IMG SRC="images/home_43.gif" WIDTH=63 HEIGHT=18 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+	</TR>
+	</TABLE>
+</TD>
+</TR>
+</TABLE>
+<TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
+<TR>
+<TD><IMG SRC="images/pixel.gif" WIDTH=10 HEIGHT=40 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD VALIGN="TOP"><IMG SRC="images/cs_sig.gif" WIDTH=146 HEIGHT=66 HSPACE=0 VSPACE=0 BORDER=0 ALT="Chris Sawyer"><BR CLEAR=ALL>
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2"></TD>
+<TD><IMG SRC="images/pixel.gif" WIDTH=40 HEIGHT=40 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+<TD VALIGN="TOP">
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-1" COLOR="#000000">
+<B>TIP</B>: (bei jedem Besuch anders)<BR>
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-1" COLOR="#AE1B6D">
+<B>
+
+
+</B>
+</FONT>
+<P>
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-3">
+Durch die Benutzung dieser Website erkennen Sie die <A HREF="http://www.hasbro.com/home/terms.html" TARGET="_blank">Nutzungsbedingungen</A> an.<BR>
+
+© 1999, Chris Sawyer.  Alle Rechte vorbehalten. &copy;1999 Hasbro Interactive, Inc. Herausgegeben von Hasbro Interactive unter dem Markennamen MicroProse.
+</FONT>
+</TD>
+<TD valign=top align=right><FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2" COLOR="#000000"><A HREF="http://www.hasbro.com/home/privacy.html" TARGET="_blank">Schutzerklärung</A><BR>
+<A HREF="http://www.hasbro.com/home/advertisement.html" TARGET="_blank"><IMG SRC="images/ad_logo.gif" WIDTH=75 HEIGHT=16 HSPACE=10 VSPACE=10 BORDER=0 align=right ALT="Advertisement"></A>
+<BR CLEAR=ALL>
+<IMG SRC="images/kalogo.gif" WIDTH=34 HEIGHT=43 HSPACE=0 VSPACE=0 BORDER=0 ALT="ESRB">
+</TD>
+<TD><IMG SRC="images/pixel.gif" WIDTH=10 HEIGHT=40 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>
