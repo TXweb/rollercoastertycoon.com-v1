@@ -92,10 +92,10 @@ andere über RollerCoaster Tycoon denken und sagen.
 	<A
 HREF="mailto:technical_support@hasbro.com?subject=RollerCoasterTycoon.com
 Site">RollercoasterTycoon Webmaster</A>.<P>
-<!-- <A HREF="http://www.hasbro-interactive.com/cgi-bin/store/beenframed.cgi?rollercoaster.html" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="/images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A><BR CLEAR=ALL><IMG SRC="images/pixel.gif" WIDTH=7 HEIGHT=1 BORDER=0 ALIGN="LEFT" ALT=""><FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;"><B>US only</B></FONT> -->
+<!-- <A HREF="http://www.hasbro-interactive.com/cgi-bin/store/beenframed.cgi?rollercoaster.html" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="/images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A><BR CLEAR=ALL><IMG SRC="images/pixel.gif" WIDTH=7 HEIGHT=1 BORDER=0 ALIGN="LEFT" ALT=""><FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2"><B>US only</B></FONT> -->
 <P>
 
-<FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;" CLASS="text">
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2" CLASS="text">
 &copy;1999, Chris Sawyer. Alle Rechte vorbehalten. &copy;1999 Hasbro Interactive, Inc.
 
 </FONT>
@@ -122,7 +122,7 @@ Site">RollercoasterTycoon Webmaster</A>.<P>
 	<TR>
     <TD>
 
-<FONT FACE="Arial, Helvetica, sans-serif" style="font-size: 9px;" COLOR="#FFFFFF">Seite auswählen:<BR CLEAR=ALL>
+<FONT FACE="Arial, Helvetica, sans-serif" size="-2" COLOR="#FFFFFF">Seite auswählen:<BR CLEAR=ALL>
 <select name="menu" SIZE="1" STYLE="background-color: #FFD417; color: #AE1B6D;" onchange="goURL(this.form)">
 <OPTION VALUE="index.shtml" SELECTED>Zurück zur Spielinformation</OPTION>
 <OPTION  VALUE="outline.html">Spielbeschreibung</OPTION>

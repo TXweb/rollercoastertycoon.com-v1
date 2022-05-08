@@ -74,7 +74,7 @@ BODY { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; }
 <FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="+1" CLASS="1" COLOR="#0102C6"><B>GAME INFO</B></FONT>
 <BR>
 <FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="3" CLASS="2" COLOR="#0000FE"><B>ALL THE INFO ON ROLLERCOASTER TYCOON</B></FONT><P>
-<FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;" CLASS="text">
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2" CLASS="text">
 <P>
 
 <FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="3" CLASS="3" COLOR="#0060FF"><B>THE CROWNING TOUCH</B></FONT><BR>
@@ -96,7 +96,7 @@ If you have problems with the game, check our <A HREF="support.html">Technical S
 If you have comments or questions about the CD-ROM, please check the FAQ.  If your question is not covered, please contact <a href="javascript:;" onclick='window.open("http://us.infogrames.com/contact_us.asp","contact","width=400,height=250,menubar=no,resizable=no,scrollbars=no,toolbar=no,top=100,left=100");'>Infogrames Support</a>.
 <BR>
 <BR>
-<FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;" CLASS="text">
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2" CLASS="text">
 &copy;1999 Chris Sawyer. All rights reserved <BR>&copy;1999 Hasbro Interactive, Inc.
 </FONT>
 
@@ -122,7 +122,7 @@ If you have comments or questions about the CD-ROM, please check the FAQ.  If yo
 	<TR>
     <TD>
 
-<FONT FACE="Arial, Helvetica, sans-serif" style="font-size: 9px;" COLOR="#FFFFFF">Select page to view:<BR CLEAR=ALL>
+<FONT FACE="Arial, Helvetica, sans-serif" size="-2" COLOR="#FFFFFF">Select page to view:<BR CLEAR=ALL>
 <select name="menu" SIZE="1" STYLE="background-color: #FFD417; color: #AE1B6D;" onchange="goURL(this.form)">
 <OPTION VALUE="index.shtml">--------------------------------</OPTION>
 <OPTION  VALUE="index.shtml" SELECTED>Game Info Home</OPTION>
@@ -163,7 +163,7 @@ If you have comments or questions about the CD-ROM, please check the FAQ.  If yo
 <TABLE>
 <TR>
 <TD><A HREF="http://www.hasbro-interactive.com/microprose/product.cfm?product=99522" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="../images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A></TD>
-<TD><FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;"><B>US only</B></FONT>
+<TD><FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2"><B>US only</B></FONT>
 </TD></TR></TABLE>
 
 <!-- Coastercaster menu -->
@@ -182,7 +182,7 @@ If you have comments or questions about the CD-ROM, please check the FAQ.  If yo
 
 
 
-<FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;" CLASS="text">
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2" CLASS="text">
 </FONT>
 
 </CENTER>

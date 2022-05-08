@@ -74,7 +74,7 @@ BODY { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; }
 <FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="+1" CLASS="1" COLOR="#0102C6"><B>GAME INFO</B></FONT>
 <BR>
 <FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="3" CLASS="2" COLOR="#0000FE"><B>ALL THE INFO ON ROLLERCOASTER TYCOON</B></FONT><P>
-<FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;" CLASS="text">
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2" CLASS="text">
 <P>
 <FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="3" CLASS="3" COLOR="#0060FF"><B>NEW</B></FONT><BR>
 <B>ADDED MARCH 15th 2000</B> - The thrid and final part in our feature on <A HREF="editing_room3.html">the Evolution of RollerCoaster Tycoon - Part 3</A> (aka The Editing Room Floor) has been released.  RollerCoaster Tycoon has loads of different rides, stalls, interfaces but what about all those items that didn't make it into the game?  Where do they all go?  Now, you can take a peek behind the scenes and see the elements you've never seen before.  You'll see how the game developed over it's development period.  We think some items will surprise you and some will even make you laugh.  <A HREF="editing_room1.html">Part 1</A> and <A HREF="editing_room2.html">part 2</A> are also available.
@@ -96,7 +96,7 @@ If you have comments or questions about the CD-ROM, please check the FAQ.  If yo
 Site">RollercoasterTycoon Support</a>.
 <BR>
 <BR>
-<FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;" CLASS="text">
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2" CLASS="text">
 &copy;1999 Chris Sawyer. All rights reserved <BR>&copy;1999 Hasbro Interactive, Inc. 
 </FONT>
 
@@ -122,7 +122,7 @@ Site">RollercoasterTycoon Support</a>.
 	<TR>
     <TD>
 
-<FONT FACE="Arial, Helvetica, sans-serif" style="font-size: 9px;" COLOR="#FFFFFF">Select page to view:<BR CLEAR=ALL>
+<FONT FACE="Arial, Helvetica, sans-serif" size="-2" COLOR="#FFFFFF">Select page to view:<BR CLEAR=ALL>
 <select name="menu" SIZE="1" STYLE="background-color: #FFD417; color: #AE1B6D;" onchange="goURL(this.form)">
 <OPTION VALUE="index.shtml">--------------------------------</OPTION>
 <OPTION  VALUE="index.shtml" SELECTED>Game Info Home</OPTION>
@@ -163,7 +163,7 @@ Site">RollercoasterTycoon Support</a>.
 <TABLE>
 <TR>
 <TD><A HREF="http://www.hasbro-interactive.com/microprose/product.cfm?product=99522" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="../images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A></TD>
-<TD><FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;"><B>US only</B></FONT>
+<TD><FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2"><B>US only</B></FONT>
 </TD></TR></TABLE>
 
 <!-- Coastercaster menu -->
@@ -180,9 +180,9 @@ Site">RollercoasterTycoon Support</a>.
 <TD WIDTH="100%" BGCOLOR="#FFD417">
 <CENTER>
 
-<table border=0 width=190 cellspacing=0 cellpadding=1><tr><td align=middle bgcolor="#0102C6"><font face="Arial,Helvetica" color="#FFFFFF" style="font-size: 9px;"><b>Coaster Caster</b></font></td></tr>
+<table border=0 width=190 cellspacing=0 cellpadding=1><tr><td align=middle bgcolor="#0102C6"><font face="Arial,Helvetica" color="#FFFFFF" size="-2"><b>Coaster Caster</b></font></td></tr>
 <tr><td valign=top align=left bgcolor="#0099FF">
-<font face="Arial,Helvetica" style="font-size: 9px;" color="#FFFFFF">What is your favourite themeing?<br>
+<font face="Arial,Helvetica" size="-2" color="#FFFFFF">What is your favourite themeing?<br>
 <form method=post action="/cgi-bin/info_poll.pl?voted">
 <input type=hidden name="VOTE_CHECK" value="voted">
 <input type=radio name=quiz value="1"> Classical / Roman<br>
@@ -201,7 +201,7 @@ Site">RollercoasterTycoon Support</a>.
 </font></td></tr></table>
 
 
-<FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;" CLASS="text">
+<FONT FACE="Verdana, Arial, Helvetica, sans-serif" size="-2" CLASS="text">
 </FONT>
 
 </CENTER>
