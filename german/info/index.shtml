@@ -2,6 +2,7 @@
 
 <HTML>
 <HEAD>
+<meta charset="utf-8">
 	<TITLE>Rollercoaster Tycoon Website: Information</TITLE>
 
 <script language="javascript">
@@ -76,17 +77,17 @@ BODY { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; }
 <P>
 In diesem Abschnitt finden Sie jede Menge Informationen zu RollerCoaster Tycoon.<P>
 
-Lesen Sie das <A href="interview.html">Exklusiv-Interview</A> mit Chris Sawyer, dem Entwickler dieses Spiels, und seine <a href="tips.html">10 Top-Tips </A> - die speziell f�r die offizielle Website geschrieben wurden.
+Lesen Sie das <A href="interview.html">Exklusiv-Interview</A> mit Chris Sawyer, dem Entwickler dieses Spiels, und seine <a href="tips.html">10 Top-Tips </A> - die speziell für die offizielle Website geschrieben wurden.
 <P>
-Erfahren Sie etwas <A href="outline.html">�ber das Spiel</A> selbst und schauen Sie sich 
-sich dann die herrlichen <A href="screenshots.html">Screenshots</A> an. Sie sind nicht sicher, ob Ihr PC schnell genug ist f�r das Spiel? - Schauen Sie bei
+Erfahren Sie etwas <A href="outline.html">Über das Spiel</A> selbst und schauen Sie sich
+sich dann die herrlichen <A href="screenshots.html">Screenshots</A> an. Sie sind nicht sicher, ob Ihr PC schnell genug ist für das Spiel? - Schauen Sie bei
  <A Href="tech.html">den technischen Daten</A> nach.
 <P>
-Wenn Ihnen das noch nicht reicht, haben wir die st�ndig gr��er werdende <a href="faq.html">FAQ-Bibliothek</A>. Und schlie�lich - das kommt nicht von uns - k�nnen Sie im Abschnitt <a href="previews.html">Meinungen</A> lesen, was 
-andere �ber RollerCoaster Tycoon denken und sagen.
+Wenn Ihnen das noch nicht reicht, haben wir die st�ndig größer werdende <a href="faq.html">FAQ-Bibliothek</A>. Und schließlich - das kommt nicht von uns - können Sie im Abschnitt <a href="previews.html">Meinungen</A> lesen, was
+andere über RollerCoaster Tycoon denken und sagen.
 <P>
-    Wenn Sie technische Unterst�tzung ben�tigen, wenden Sie sich bitte an die f�r Ihr
-    Gebiet zust�ndige Stelle (s. Handbuch).
+    Wenn Sie technische Unterstützung benötigen, wenden Sie sich bitte an die für Ihr
+    Gebiet zuständige Stelle (s. Handbuch).
     Wenn Sie Fragen zu dieser Website haben, schreiben Sie dem
 	<A
 HREF="mailto:technical_support@hasbro.com?subject=RollerCoasterTycoon.com
@@ -121,14 +122,14 @@ Site">RollercoasterTycoon Webmaster</A>.<P>
 	<TR>
     <TD>
 
-<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2" COLOR="#FFFFFF">Seite ausw�hlen:<BR CLEAR=ALL>
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2" COLOR="#FFFFFF">Seite auswählen:<BR CLEAR=ALL>
 <select name="menu" SIZE="1" STYLE="background-color: #FFD417; color: #AE1B6D;" onchange="goURL(this.form)">
-<OPTION VALUE="index.shtml" SELECTED>Zur�ck zur Spielinformation</OPTION>
+<OPTION VALUE="index.shtml" SELECTED>Zurück zur Spielinformation</OPTION>
 <OPTION  VALUE="outline.html">Spielbeschreibung</OPTION>
 <OPTION  VALUE="screenshots.html">Screenshots</OPTION>
 <OPTION  VALUE="tips.html">Tips von Chris Sawyer</OPTION>
 <OPTION  VALUE="interview.html">Interview mit Chris Sawyer</OPTION>
-<OPTION  VALUE="faq.html">FAQ (h�ufig gestellte Fragen)</OPTION>
+<OPTION  VALUE="faq.html">FAQ (häufig gestellte Fragen)</OPTION>
 <OPTION  VALUE="tech.html">Technische Einzelheiten</OPTION>
 <OPTION  VALUE="previews.html">Meinungen</OPTION>
 </SELECT>
