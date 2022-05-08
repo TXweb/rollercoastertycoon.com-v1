@@ -44,7 +44,7 @@ function changeImages() {
     <TD>
 	<FONT FACE="Arial, Helvetica, sans-serif" SIZE="2" COLOR="#0101C8"><B><I>Die <U>offizielle</U>  Webseite von RollerCoaster Tycoon </I>...</B></FONT>
 	<BR>
-	<FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2">
+	<FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;">
         ...Hier können Sie Ihre <A href="rides/index.html">Achterbahnen in der Tauschbörse
 tauschen</A>,  beim <A href="competition/index.html">Design-Wettbewerb</A> Preise gewinnen,  im 
 Abschnitt <a href="info/index.shtml">Spiel-Info</A> mehr über das Spiel erfahren -
@@ -66,7 +66,7 @@ dort gibt es <a href="info/faq.html">FAQs</A>, <a href="info/screenshots.html">S
 	<TD><!-- Gutter --><IMG SRC="images/pixel.gif" WIDTH=4 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 	</TR>
 	<TR>
-	<TD ALIGN="CENTER"><BR><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2">Exklusives <A HREF="competition/index.html">RCT-Mauspad</A> und <A href="hunt/index.html">Poster</A> zu gewinnen!</FONT><BR>
+	<TD ALIGN="CENTER"><BR><FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;">Exklusives <A HREF="competition/index.html">RCT-Mauspad</A> und <A href="hunt/index.html">Poster</A> zu gewinnen!</FONT><BR>
 	</TD>
 	<TD><!-- Gutter --><IMG SRC="images/pixel.gif" WIDTH=4 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 	</TR>
@@ -75,7 +75,7 @@ dort gibt es <a href="info/faq.html">FAQs</A>, <a href="info/screenshots.html">S
 </TD>
 </TR>
 <TR VALIGN="TOP">
-<TD><!-- Buy Now Commented out <A HREF="http://www.hasbro-interactive.com/cgi-bin/store/beenframed.cgi?rollercoaster.html" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A><BR CLEAR=ALL><IMG SRC="images/pixel.gif" WIDTH=7 HEIGHT=1 BORDER=0 ALIGN="LEFT" ALT=""><FONT FACE="Verdana, Arial, Helvetica, sans-serif" SIZE="-2"><B>US only</B></FONT> --></TD>
+<TD><!-- Buy Now Commented out <A HREF="http://www.hasbro-interactive.com/cgi-bin/store/beenframed.cgi?rollercoaster.html" TARGET="_blank" onmouseout="changeImages('image1', 'image1off');window.status ='';return true;" onmouseover="changeImages('image1', 'image1on');window.status ='Buy Now';return true;"><IMG SRC="images/buy_off.gif" NAME="image1" WIDTH=83 HEIGHT=28 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></A><BR CLEAR=ALL><IMG SRC="images/pixel.gif" WIDTH=7 HEIGHT=1 BORDER=0 ALIGN="LEFT" ALT=""><FONT FACE="Verdana, Arial, Helvetica, sans-serif" style="font-size: 9px;"><B>US only</B></FONT> --></TD>
 <TD>
 <IMG SRC="images/pixel.gif" WIDTH=30 HEIGHT=1 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 </TR>
@@ -90,7 +90,7 @@ dort gibt es <a href="info/faq.html">FAQs</A>, <a href="info/screenshots.html">S
 	<TABLE CELLSPACING="0" CELLPADDING="0" BORDER="0">
 	<TR VALIGN="TOP">
     <TD>
-<applet code="Banners.class"  width="247" height="17" >
+<applet code="Banners.class"  width="247" height="17" style="display: block; width: 247px; height: 17px; background-color: #ae1b6d; color: #ffd417;">
 <param name="cpf"           value="2">
 <param name="fps"           value="20">
 <param name="bgColor"       value="#AE1B6D">
@@ -115,7 +115,7 @@ dort gibt es <a href="info/faq.html">FAQs</A>, <a href="info/screenshots.html">S
 <TR>
 <TD><IMG SRC="images/pixel.gif" WIDTH=10 HEIGHT=40 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 <TD VALIGN="TOP"><IMG SRC="images/cs_sig.gif" WIDTH=146 HEIGHT=66 HSPACE=0 VSPACE=0 BORDER=0 ALT="Chris Sawyer"><BR CLEAR=ALL>
-<FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2"></TD>
+<FONT FACE="Arial, Helvetica, sans-serif" style="font-size: 9px;"></TD>
 <TD><IMG SRC="images/pixel.gif" WIDTH=40 HEIGHT=40 HSPACE=0 VSPACE=0 BORDER=0 ALT=""></TD>
 <TD VALIGN="TOP">
 <FONT FACE="Arial, Helvetica, sans-serif" SIZE="-1" COLOR="#000000">
@@ -133,7 +133,7 @@ Durch die Benutzung dieser Website erkennen Sie die <A HREF="http://www.hasbro.c
 © 1999, Chris Sawyer.  Alle Rechte vorbehalten. &copy;1999 Hasbro Interactive, Inc. Herausgegeben von Hasbro Interactive unter dem Markennamen MicroProse.
 </FONT>
 </TD>
-<TD valign=top align=right><FONT FACE="Arial, Helvetica, sans-serif" SIZE="-2" COLOR="#000000"><A HREF="http://www.hasbro.com/home/privacy.html" TARGET="_blank">Schutzerklärung</A><BR>
+<TD valign=top align=right><FONT FACE="Arial, Helvetica, sans-serif" style="font-size: 9px;" COLOR="#000000"><A HREF="http://www.hasbro.com/home/privacy.html" TARGET="_blank">Schutzerklärung</A><BR>
 <A HREF="http://www.hasbro.com/home/advertisement.html" TARGET="_blank"><IMG SRC="images/ad_logo.gif" WIDTH=75 HEIGHT=16 HSPACE=10 VSPACE=10 BORDER=0 align=right ALT="Advertisement"></A>
 <BR CLEAR=ALL>
 <IMG SRC="images/kalogo.gif" WIDTH=34 HEIGHT=43 HSPACE=0 VSPACE=0 BORDER=0 ALT="ESRB">
